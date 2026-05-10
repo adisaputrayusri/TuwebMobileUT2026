@@ -207,7 +207,7 @@ for (let i = 1; i <= 5; i++) {
 
 ---
 
-# 4. Soal 1 — Pola Segitiga dari NIM
+# 4. Soal 1 - Pola Segitiga dari NIM
 
 ## Contoh
 
@@ -249,7 +249,7 @@ for (let i = 1; i <= tinggi; i++) {
 
 ---
 
-# 5. Soal 2 — Deret Aritmatika dari NIM
+# 5. Soal 2 - Deret Aritmatika dari NIM
 
 ## Contoh
 
@@ -368,32 +368,8 @@ ts-node main.ts
 
 ---
 
-# 8. Format Pengumpulan
 
-```txt
-Nama:
-NIM:
-Kelas:
-Link GitHub:
-Screenshot hasil program:
-```
-
----
-
-# 9. Kriteria Penilaian
-
-| Aspek | Bobot |
-|---|---:|
-| Program berjalan | 30 |
-| Soal 1 benar | 20 |
-| Soal 2 benar | 20 |
-| Soal 3 benar | 20 |
-| Dokumentasi GitHub | 10 |
-| Total | 100 |
-
----
-
-# 10. Referensi
+# 8. Referensi
 
 - https://www.typescriptlang.org/docs/
 - https://nodejs.org/en/docs
